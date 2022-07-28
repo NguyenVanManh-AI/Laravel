@@ -38,7 +38,7 @@ A very simple Laravel 8 + Vue 2 + AdminLTE 3 based Curd Starter template for SPA
 
 ## Installation
 
-- `git clone https://github.com/AnowarCST/laravel-vue-crud-starter.git`
+- `git clone git@github.com:NguyenVanManh-AI/Laravel.git`
 - `cd laravel-vue-crud-starter/`
 - `composer install`
 - `cp .env.example .env`
